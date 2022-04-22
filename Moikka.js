@@ -1,3 +1,1 @@
-var viesti = "Moikat  Vantaalle!";
-console.log(viesti);
-
+console.log("Hello World");
